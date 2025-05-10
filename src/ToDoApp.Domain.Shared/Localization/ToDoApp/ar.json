@@ -1,0 +1,10 @@
+{
+  "culture": "ar",
+  "texts": {
+    "AppName": "ToDoApp",
+    "Menu:Home": "الصفحة الرئيسية",
+    "Welcome": "مرحباً",
+    "Menu:ToDoApp": "تطبيق المهام",
+    "Menu:todos": "قائمة المهام"
+  }
+}

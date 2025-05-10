@@ -1,0 +1,27 @@
+﻿{
+  "culture": "ar",
+  "texts": {
+    "Title": "الاسم",
+    "Description": "الوصف",
+    "Status": "الحالة",
+    "Priority": "الأولوية",
+    "DueDate": "تاريخ الاستحقاق",
+    "DueDateFutureError": "يجب أن يكون تاريخ الاستحقاق في المستقبل",
+    "Enum:Status.0": "لم يبدأ",
+    "Enum:Status.1": "قيد التنفيذ",
+    "Enum:Status.2": "مكتمل",
+    "Enum:Status.3": "ملغي",
+    "Enum:Priority.0": "منخفضة",
+    "Enum:Priority.1": "متوسطة",
+    "Enum:Priority.2": "مرتفعة",
+    "NewToDo": "إضافة مهمة جديدة",
+    "SelectStatus": "اختر الحالة",
+    "SelectPriority": "اختر الأولوية",
+    "NotSpecified": "لم يتم التحديد",
+    "OperationSucceeded": "تمت العملية بنجاح!",
+    "Congrats": "تهانينا",
+    "MarkAsCompleted": " تمييز المهمة على أنها مكتملة "
+
+  }
+
+}

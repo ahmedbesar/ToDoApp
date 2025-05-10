@@ -1,0 +1,10 @@
+{
+  "culture": "en",
+  "texts": {
+    "AppName": "ToDoApp",
+    "Menu:Home": "Home",
+    "Welcome": "Welcome",
+    "Menu:ToDoApp": "To-Do App",
+    "Menu:todos": "To-Dos"
+  }
+}

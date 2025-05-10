@@ -1,0 +1,27 @@
+﻿{
+  "culture": "en",
+  "texts": {
+    "Title": "Title",
+    "Description": "Description",
+    "Status": "Status",
+    "Priority": "Priority",
+    "DueDate": "Due Date",
+    "DueDateFutureError": "Due date must be in the future",
+    "Enum:Status.0": "Not Started",
+    "Enum:Status.1": "In Progress",
+    "Enum:Status.2": "Completed",
+    "Enum:Status.3": "Cancelled",
+    "Enum:Priority.0": "Low",
+    "Enum:Priority.1": "Medium",
+    "Enum:Priority.2": "High",
+    "NewToDo": "New To-Do",
+    "SelectStatus": "Select Status",
+    "SelectPriority": "Select Priority",
+    "NotSpecified": "Not Specified",
+    "OperationSucceeded": "The operation was successful!",
+    "Congrats": "Congrats",
+    "MarkAsCompleted": " mark as completed."
+
+  }
+
+}
